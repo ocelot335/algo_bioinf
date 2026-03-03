@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "archaea_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "archaea.fasta",
+  "number-of-letters": 837445,
+  "number-of-sequences": 2981,
+  "last-updated": "2026-03-03T07:28:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2597952,
+  "bytes-to-cache": 864375,
+  "files": [
+    "archaea_db.pdb",
+    "archaea_db.phr",
+    "archaea_db.pin",
+    "archaea_db.pot",
+    "archaea_db.psq",
+    "archaea_db.ptf",
+    "archaea_db.pto"
+  ]
+}
